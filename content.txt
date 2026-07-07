@@ -1,0 +1,24 @@
+Object Oriented Programming
+1. Class and Object
+   CLASS --> A class is a user-defined blueprint that groups 
+   related data (attributes) and behavior (methods) into a single
+   unit, from which objects are created.
+
+   OBJECT --> An object is a real instance of a class. 
+   It is created from a class and contains its own data 
+   (attributes) and can perform the behaviors (methods) 
+   defined in that class.
+
+2. Class has data/attribute and function/methods.
+   Attributes called itself, and methods are called manually.
+
+3. why python is called oop??
+   everything is object in python(variable, datatype)
+   that's why python is highly object oriented programming
+   print(type(any))...class any
+
+4. Advantages of oops-
+   a. you can create your own datatype
+   b. code reusability
+   c. easier debugging
+   d. easy to colab
