@@ -14,6 +14,6 @@ rahul = Employee()
 #printing the attributes
 print(rahul.id)
 #calling the method
-sam.travel("kerala")
+rahul.travel("kerala")
 
 
