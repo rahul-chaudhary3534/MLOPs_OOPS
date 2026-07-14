@@ -22,3 +22,21 @@ Object Oriented Programming
    b. code reusability
    c. easier debugging
    d. easy to colab
+
+5. Project on oops:
+   function vs methods
+   creating methods and attributs, self, def, init...
+   using file as module... modular coding.... modularity
+   encapsulation
+   getter and setter
+   static method
+   inheritance
+
+6. Encapsulation:
+   to hide the attribute apply double underscore befor attribute like to hide name--> __name
+   to access this hidden one --> _classname__attribute
+   complete protection is provided in java language
+
+7. Getter and setter
+   get the hidden attribute and set the hidden attribute
+   
