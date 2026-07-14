@@ -39,4 +39,15 @@ Object Oriented Programming
 
 7. Getter and setter
    get the hidden attribute and set the hidden attribute
+
+8. Static method
+
+9. Inheritance
+   child can parent attributes, constructor, non private methods.... but parents cant do
+   super().methodname.... this method is that one , we want to inherit from parents class
+   super can only be called in class....cannot access attributes/variables
+
+types of inheritance
+1. single 2. multilevel 3.Hierarchial 4. Multiple (diamond problem) 5. Hybrid
+   
    
